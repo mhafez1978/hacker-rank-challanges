@@ -1,0 +1,11 @@
+{
+  "name": "hacker-rank-challanges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumNumbersOrArrayOfNumbersApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Hafez",
+  "license": "MIT"
+}
